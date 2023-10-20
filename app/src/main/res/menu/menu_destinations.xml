@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.testapp.travel.ui.destinations.DestinationsActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:enabled="false"
+        android:icon="@android:drawable/ic_menu_search"
+        android:orderInCategory="101"
+        android:title="Search"
+        android:visible="false"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>

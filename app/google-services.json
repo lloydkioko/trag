@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120053226077",
+    "project_id": "trag-99e42",
+    "storage_bucket": "trag-99e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120053226077:android:0a869f624c17dbd8b70bb4",
+        "android_client_info": {
+          "package_name": "trag.com.tour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOF9_TmaJ8XAcrowOtisJBNinPnQakiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

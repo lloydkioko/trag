@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="color_white">#FFF</color>
+
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="primary_light">#FFd1c4e9</color>
+    <color name="primary_light_filter">#99d1c4e9</color>
+
+    <color name="colorAccent">#536DFE</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- chat !-->
+    <color name="colorIndivateTab">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorCardView">#f7f7f7</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_500">#a4a4a4</color>
+    <color name="grey_800">#212121</color>
+    <color name="startblue">#00a8ff</color>
+    <color name="endblue">#0097e6</color>
+
+
+    <!-- weather -->
+    <color name="wthOrange">#FFA000</color>
+
+
+
+
+
+
+</resources>
